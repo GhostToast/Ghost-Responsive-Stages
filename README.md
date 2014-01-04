@@ -2,6 +2,7 @@ Ghost-Responsive-Stages
 =======================
 
 WordPress plugin which displays responsive stage based on browser width:
+
 1. >= 960px
 2. 768px - 959px
 3. 480px - 767px
