@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ghost Responsive Stages
-Plugin URI: http://morningstarmediagroup.com
+Plugin URI: http://ghosttoa.st
 Description: Shows responsive stages flag for seeing when transitions should occur
 Version: 1.1
 Author: Gustave Gerhardt
