@@ -3,7 +3,7 @@
 Plugin Name: Ghost Responsive Stages
 Plugin URI: http://ghosttoa.st
 Description: Shows responsive stages flag for seeing when transitions should occur
-Version: 1.1
+Version: 1.0
 Author: Gustave Gerhardt
 Author URI: http://ghosttoa.st
 License: GPL2
